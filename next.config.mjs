@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/inpulse-frontend-preview',
+  basePath: '/v1.0',
   images: {
     unoptimized: true,
   },
